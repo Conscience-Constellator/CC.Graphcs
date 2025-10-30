@@ -1,0 +1,8 @@
+{
+  "project_root": ".",
+  "modules": "SOrCC.Graphcs",
+  "entry_points": "",
+  "priority": "",
+  "repo_urls": "https://github.com/Conscience-Constellator/CC.Graphcs",
+  "notes": "No mains"
+}
